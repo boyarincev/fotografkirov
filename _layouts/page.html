@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div id="layout-main-container" class="container">
+    <div id="layout-main" class="group">
+        <div id="layout-content" class="group">
+            {% include about.html %}
+            <div id="content" class="group">
+                <div class="zone zone-content">
+                    <article class="image-gallery-page-with-text-on-top content-item">
+                        <header>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h1 class="page-header">{{ page.title }}</h1>
+                                </div>
+                            </div>
+                        </header>
+                        {{ content }}
+                        <hr>
+                        <!-- Side Menu -->
+                        <a id="menu-toggle" href="{{ page.backlink }}" class="btn btn-primary btn-lg toggle btn-toggle-menu" data-toggle="tooltip" data-placement="right" title="" data-original-title="Назад"><i class="fa fa-chevron-left"></i></a>
+                        <!-- /Side Menu -->
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
