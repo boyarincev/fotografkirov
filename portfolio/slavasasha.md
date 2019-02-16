@@ -30,7 +30,7 @@ images : [["/images/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_028.jpg
 ---
 <blockquote class="row">
     <div class="col-md-2">
-        <img class="img-circle img-responsive center-block" src="/images/ImageGalleryPageWithRecall/Image/slava-sasha-ava-1.jpg" alt="">
+        <img class="img-circle img-responsive center-block" src="{{ site.baseurl }}/images/ImageGalleryPageWithRecall/Image/slava-sasha-ava-1.jpg" alt="">
     </div>
     <div class="col-md-8">
         <p></p><p>Лена! Привет! Все очень понравилось, очень рада, что позвали тебя фотографировать)</p><p></p>

@@ -28,7 +28,7 @@ images : [["/images/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_045.jpg
 ---
 <blockquote class="row">
     <div class="col-md-2">
-        <img class="img-circle img-responsive center-block" src="/images/ImageGalleryPageWithRecall/Image/kiril-masha-ava-2.jpg" alt="">
+        <img class="img-circle img-responsive center-block" src="{{ site.baseurl }}/images/ImageGalleryPageWithRecall/Image/kiril-masha-ava-2.jpg" alt="">
     </div>
     <div class="col-md-8">
         <p></p><p>Леночка,привет! Фотографии просто шикарные! Очень красивые и нежные) Ты большая молодец)</p><p></p>

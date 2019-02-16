@@ -29,14 +29,14 @@ layout: default
                             {% for image in page.images %}
                                 <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                                     <a class="thumbnail fancybox" rel="group" href="{{ image[0] }}">
-                                        <img src="{{ image[1] }}" alt="{{ image[2] }}" class="img-responsive">
+                                        <img src="{{ site.baseurl }}/{{ image[1] }}" alt="{{ image[2] }}" class="img-responsive">
                                     </a>
                                 </div>
                             {% endfor %}
                         </div>
                         <hr>
                         <!-- Side Menu -->
-                        <a id="menu-toggle" href="{{ page.backlink }}" class="btn btn-primary btn-lg toggle btn-toggle-menu" data-toggle="tooltip" data-placement="right" title="" data-original-title="Назад"><i class="fa fa-chevron-left"></i></a>
+                        <a id="menu-toggle" href="{{ site.baseurl }}/{{ page.backlink }}" class="btn btn-primary btn-lg toggle btn-toggle-menu" data-toggle="tooltip" data-placement="right" title="" data-original-title="Назад"><i class="fa fa-chevron-left"></i></a>
                         <!-- /Side Menu -->
                     </article>
                 </div>

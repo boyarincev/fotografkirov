@@ -29,7 +29,7 @@ images : [["/images/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_085.jpg
 ---
 <blockquote class="row">
     <div class="col-md-2">
-        <img class="img-circle img-responsive center-block" src="/images/ImageGalleryPageWithRecall/Image/dima-natasha-ava-3.jpg" alt="">
+        <img class="img-circle img-responsive center-block" src="{{ site.baseurl }}/images/ImageGalleryPageWithRecall/Image/dima-natasha-ava-3.jpg" alt="">
     </div>
     <div class="col-md-8">
         <p></p><p>Ленка!! ты просто супер!!! нам очень понравилось!!!!! спасибо огромное!!!!!! Димон вообще в восторге, отдельную благодарность выражает тебе!!!))))))))))))))</p><p></p>
