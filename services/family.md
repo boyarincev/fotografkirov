@@ -10,7 +10,7 @@ options: [
     "Отличный подарок на вашу годовщину — съемка lovestory (возможно собрание слайд-шоу из полученных фото).",
     "Сборка и изготовление фотокниги."
 ]
-backlink: "/#services"
+backlink: "#services"
 images : 				[["/images/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_0600-.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_0600--DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "детская фотосессия Киров"],
                 ["/images/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_8177.JPG", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_8177-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "семейная  фотосессия Киров"],
                 ["/images/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_5456-.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_25_ImageGallery/IMG_5456--DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "фотосессия в ожидании чуда Киров"],

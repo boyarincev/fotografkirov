@@ -4,7 +4,7 @@ title: Свадебная фотосессия Жени и Светы
 metadescription: Свадебные фотографии Жени и Свети из Кирова. Фотограф Елена Охапкина.
 metakeywords: Cвадебные фотографии, выездная регистрация, фотографии на природе
 permalink: /Portfolio/JenyaSveta/
-backlink: "/#portfolio"
+backlink: "#portfolio"
 images : 		[["/images/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_001.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_001-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", ""],
                 ["/images/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_004.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_004-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "выездная регистрация Киров"],
                 ["/images/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_005.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_27_ImageGallery/big_005-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "выездная регистрация Киров"],

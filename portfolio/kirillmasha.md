@@ -4,7 +4,7 @@ title: Свадебная фотосессия Кирилла и Маши
 metadescription: Съемка свадебной прогулки молодоженов Кирилла и Маши
 metakeywords: прогулка, фотосессия
 permalink: /Portfolio/KirillMasha/
-backlink: "/#portfolio"
+backlink: "#portfolio"
 images : [["/images/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_045.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_045-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", ""],
 ["/images/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_047.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_047-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "интересные места для фотосессии Киров"],
 ["/images/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_049.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_29_ImageGallery/big_049-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "интересные места для фотосессии Киров"],

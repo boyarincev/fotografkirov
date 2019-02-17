@@ -4,7 +4,7 @@ title: Свадебная фотосессия Димы и Наташи
 metadescription: Съемка прогулки молодоженов Кирилла и Маши. фотографии в городе Кирове и на природе.
 metakeywords: прогулка, моложены, свадьба, фотосессия, природа, фотографии
 permalink: /Portfolio/DimaNatasha/
-backlink: "/#portfolio"
+backlink: "#portfolio"
 images : [["/images/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_085.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_085-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "интересные места для фотосессии в Кирове"], 
 ["/images/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_086.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_086-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "интересные места для фотосессии в Кирове"], 
 ["/images/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_089.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_30_ImageGallery/big_089-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "интересные места для фотосессии в Кирове"], 

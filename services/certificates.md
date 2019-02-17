@@ -4,7 +4,7 @@ title: Подарочный сертификат в Кирове
 metadescription: Подарочный сертификат на фотосессию в Кирове от фотографа Лены Охапкиной, купить подарочный сертификат для себя или в подарок
 metakeywords: подарочный сертификат
 permalink: /Services/Certificates/
-backlink: "/#services"
+backlink: "#services"
 ---
 
 <p>Черезвычайно приятный презент родным и друзьям на <span style="text-decoration: underline;"><a href="{{ site.baseurl }}/Services/Personal" title="Индивидуальная фотосессия">день рождения</a></span>, <span style="text-decoration: underline;"><a href="{{ site.baseurl }}/Services/Wedding" title="Семейная фотосессия">свадьбу</a></span> или просто потому что их фотоальбом давно не пополнялся). <br> Сертификат возможен как на прогулочную, так и на студийную фотосъемку, оформлен всегда симпатично - не обязательно как на представленном фото, но всегда приятно и по-праздничному).</p>

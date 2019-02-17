@@ -4,7 +4,7 @@ title: Свадебная фотосессия Славы и Саши
 metadescription: Романтическая свадебная фотосессия Славы и Саши.
 metakeywords: регистрация, фотосессия на природе, интересные места для фотосессии, съемка банкета
 permalink: /Portfolio/SlavaSasha/
-backlink: "/#portfolio"
+backlink: "#portfolio"
 images : [["/images/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_028.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_028-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", ""],
 ["/images/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_031.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_031-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "романтическая свадебная фотосессия Киров"],
 ["/images/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_030.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_28_ImageGallery/big_030-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "романтическая свадебная фотосессия Киров"],

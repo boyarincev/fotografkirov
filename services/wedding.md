@@ -12,7 +12,7 @@ options: [
     "При съемке более 4-х часов слайд-шоу в подарок.",
     "Сборка и изготовление фотокниги"
 ]
-backlink: "/#services"
+backlink: "#services"
 images : [["/images/Amba.ImagePowerTools/ContentItem_22_ImageGallery/1421.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_22_ImageGallery/1421-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "места для свадебной фотосессии Киров"], 
 ["/images/Amba.ImagePowerTools/ContentItem_22_ImageGallery/1239-.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_22_ImageGallery/1239--DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "места для свадебной фотосессии Киров"], 
 ["/images/Amba.ImagePowerTools/ContentItem_22_ImageGallery/IMG_0674.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_22_ImageGallery/IMG_0674-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg", "места для свадебной фотосессии Киров"], 

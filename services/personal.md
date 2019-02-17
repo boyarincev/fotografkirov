@@ -11,7 +11,7 @@ options: [
     "Не имеет значения - один Вы пришли, или с другом(мамой, котиком) — цена за час съемки не увеличится.",
     "Собственная студия со всем необходимым оборудованием."
 ]
-backlink: "/#services"
+backlink: "#services"
 images :        [
                 ["/images/Amba.ImagePowerTools/ContentItem_23_ImageGallery/2281.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_23_ImageGallery/2281-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg"],
                 ["/images/Amba.ImagePowerTools/ContentItem_23_ImageGallery/2322.jpg", "/images/Amba.ImageCache/Default/Amba.ImagePowerTools/ContentItem_23_ImageGallery/2322-DE91E73BE9C37EDAAEEF74A71944B1F6.jpg"],
